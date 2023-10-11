@@ -1,2 +1,2 @@
 # strace-static
-strace-static in different archs
+strace-static for different archs
