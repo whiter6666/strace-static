@@ -1,0 +1,2 @@
+# strace-static
+strace-static
