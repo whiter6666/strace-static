@@ -1,2 +1,2 @@
-# strace-static
-strace-static for different archs
+# tools-static
+static tools for different archs such as strace、tcpdump...
